@@ -28,4 +28,4 @@
 
 在文件` MainWindow.xaml.cs` 下的方法`CheckKeyboardShortcuts`修改 ，分别为 坐标保存 与 限制启用
 
-具体虚拟键码自行百度
+具体虚拟键码自行搜索
