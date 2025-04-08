@@ -1,0 +1,10 @@
+## Visual Studio 临时文件 ##
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.ilk
+*.pdb
+*.log
